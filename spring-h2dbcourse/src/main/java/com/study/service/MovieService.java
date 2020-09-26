@@ -46,4 +46,9 @@ public class MovieService
 	{
 		System.out.println("test method");
 	}
+	
+	public void updateMovieDetails2()
+	{
+		System.out.println("test method 2");
+	}
 }
